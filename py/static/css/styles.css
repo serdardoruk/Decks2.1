@@ -1,0 +1,61 @@
+.hidden {
+	display: hidden;
+}
+
+.grey {
+	opacity: 0.5
+}
+
+.disabled-button {
+	cursor: no-drop !important;
+	opacity: 0.4;
+}
+
+.paddingRight{
+	padding-right: 10px;
+}
+.panel {
+	opacity: 0.9;
+}
+
+.tooltips {
+	font-size: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.tooltips1 {
+	font-size: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#login_container {
+	padding-top: 90px;
+	background-image: url(../img/jace.jpg);
+	background-size: cover;
+	background-position: 10;
+	height: 100vh;
+}
+
+.welcome-text {
+	font-size: 24px !important;
+}
+
+.description-text {
+	font-size : 16px !important;
+}
+
+body {
+	padding-top: 0px !important;
+}
+	
+
+.submit-button {
+	background-color : skyblue !important;
+	color: white !important;
+}
+
+.submit-button:hover {
+	background-color: green !important;
+}
